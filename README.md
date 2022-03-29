@@ -26,7 +26,7 @@ Then your work is first run train mask detector jupyter file and train your mode
 ![Screenshot](https://github.com/shankarkarande/Face-Mask-Detection/blob/master/plot.png)
 
 ## Output
-After completing training phase you are able to run your Face Video Detector jupyter notebook file amd check it using with mask and without mask.
+After completing training phase you are able to run your Face Video Detector jupyter notebook file and check it using with mask and without mask.
 
 ![Screenshot](https://github.com/shankarkarande/Face-Mask-Detection/blob/master/facemask.png)
 
