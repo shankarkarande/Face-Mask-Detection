@@ -15,4 +15,4 @@ Also, in this project we will use Arduino Nano R3, Buzzer and LED. When person i
 
 ## Run Project
 
-First you can download 
+First you can download and clone this face mask detection repository. Then you will install all packages using requirement.txt. Then your work is first run an
