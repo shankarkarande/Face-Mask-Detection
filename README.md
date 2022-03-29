@@ -22,6 +22,6 @@ First you can download and clone this face mask detection repository. Then you w
 Then your work is first run train mask detector jupyter file and train your model. After your training model is completed you are able to see a graph chart like this.
 
 ## Model Accuracy
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/shankarkarande/Face-Mask-Detection/blob/master/plot.png)
 
 
