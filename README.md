@@ -33,7 +33,7 @@ After completing training phase you are able to run your Face Video Detector jup
 # Conclusion
 <li>The ensemble approach not only helps in achieving high accuracy but also improves detection speed considerably. Furthermore, the application of transfer learning on pretrained models with extensive experimentation over an unbiased dataset resulted in a highly robust and low-cost system. The identity detection of faces, violating the mask norms further, increases the utility of the system for public benefits.</li>
 
-# Developers
+# Developer
 <li>Shankar Karande (<a href="mailto:shankarkarande440@gmail.com">shankarkarande440@gmai.com</a>)</li>
 </ul>
 
